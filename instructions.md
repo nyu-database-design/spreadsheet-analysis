@@ -11,7 +11,7 @@ The goals of this assignment are to:
 
 ### Select a data source 
 
-First, you will need to select a datafile to work from. For this assignment, please select any reputable data source that is of interest to you.  Download the data in a plain text data format, not a spreadsheet program -specific file format.
+First, you will need to select a datafile to work from. For this assignment, please select any reputable data source that is of interest to you.  Download the data in a plain text data format, not a spreadsheet-specific file format.
 
 ### Where to find data
 There are [data sources available at NYU Libraries as data sources published as part of the open web](https://knowledge.kitchen/Suggested_data_sources).  Please review these and use these available resources to identify your data set.
@@ -20,7 +20,7 @@ There are [data sources available at NYU Libraries as data sources published as 
 Save the original raw data file of your choice into the `data` directory.
 
 ### What not to do
-Please do NOT use [Average surface temperature data from NASA](http://data.giss.nasa.gov/gistemp/#tabledata). You will NOT get credit for a project retrieving data from this or a closely related site!
+Please do NOT use [average surface temperature data from NASA](http://data.giss.nasa.gov/gistemp/#tabledata). You will NOT get credit for a project retrieving data from this or another data set we have discussed as an example.
 
 Also, do not choose a data file already selected by another student in the course.  Check the `#data-dibs` Slack channel for claims on any data set.  If there are none, then you are welcome to use that data set and claim it as yours in that Slack channel.
 
@@ -36,20 +36,20 @@ Write a Python program in the file named `munge.py` to read in the data file whi
 Your program should be written to work consistently and repeatedly with the dataset of your choice regardless of how many lines of data are in the file.  In other words, the program should be scalable and not based on idiosyncratic strategies such as, "for the third row do this... for the fourth row do that... " etc.
 
 ### Other scrubbing tools
-If there are some scrubbing tasks that you simply cannot complete in Python, you are welcome to use a text editor or spreadsheet program to complete the scrubbing.  But any such work must be relatively minor and documented thoroughly in the report you will write.
+If there are some scrubbing tasks that you simply cannot complete in Python, you are welcome to use a text editor or spreadsheet program to complete the scrubbing.  But any such work must be relatively minor and documented thoroughly in the report you will write so that someone else can repeat the process without difficulty.
 
 ## Part 2: Data analysis in a spreadsheet
 
 ### Import data into a spreadsheet 
 
-Import your newly-scrubbed data file into a sheet in the spreadsheet program of your choice, such as Microsoft Excel, Google Sheets, Apple Numbers, or Libre Office. If it doesn't import correctly, keep working on the scrubbing of your datafile until it does!
+Import your newly-scrubbed data file into a sheet in the spreadsheet program of your choice, such as Microsoft Excel, Google Sheets, Apple Numbers, or Libre Office. If it doesn't import correctly, keep working on the scrubbing of your data until it does!
 
 ### Calculate aggregate statistics 
 
 Use formulas to calculate four different aggregate statistics based on your data, such as mean, maximum, minimum, etc of one or more entire columns in the data.  Place a clear label for each statistic in a neighboring cell.
 
 ### Calculate aggregate statistics with conditions
-Use formulas to calculate four different aggregate statistics based on specific criteria you define, such as mean, maximum, minimum, etc of only those rows that match the given criteria.  Place a clear label for each statistic in a neighboring cell.
+Use formulas to calculate four different aggregate statistics based on specific criteria you define, such as mean, maximum, minimum, etc of only those rows that match the given criterion or multiple criteria.  Place a clear label for each statistic in a neighboring cell so that someone viewing your spreadsheet can easily understand exactly what each statistic represents.
 
 Be sure to use the database-like functions appropriate to your spreadsheet program (e.g. AVERAGEIF, MAXIF, MINIF, SUMIF, etc for most spreadsheet programs; or DAVERAGE, DMAX, DMIN, etc for Microsoft Excel).
 
@@ -57,12 +57,12 @@ Be sure to use the database-like functions appropriate to your spreadsheet progr
 
 Write a report which displays the data and the results in the file named [README.md](./README.md).
 
-This report should be well-written but concise and include:
+This report should be well-written and well-formatted using Markdown code.  The report must include:
 
--   The origin of your data set - what is it and where does it come from.  Include the URL of the source.
+-   The origin of your data set - what is it and where does it come from.  Include a link to the URL of the source.
 -   What format the original data file was in (CSV, JSON, or other).
--   Display some of the raw data from the original data file (the first 20 rows is enough).
--   Describe the problems that were present in the data and the scrubbing tasks that were necessary to prepare your data set for import into a spreadsheet - include scrubbing done in Python, a text editor, or any other tool.  Be specific with examples of the problems in the original data and the way in which those were solved.
+-   Display some of the raw data from the original data file (the first 20 rows is enough) - use Markdown's ability to display tables.
+-   Describe the problems that were present in the data and the scrubbing tasks that were necessary to prepare your data set for import into a spreadsheet - include scrubbing done in Python, a text editor, or any other tool.  Be specific with examples of the problems in the original data and the way in which those were solved.  Feel free to show small snippets of relevant code - see the examples of code "syntax highlighting" in [this Markdown guide](https://guides.github.com/features/mastering-markdown/).
 -   Describe each of the aggregate statistic you have calculated - include a description of each and describe any insights the statistic shows that may not be obvious to someone just viewing the raw data.
 
 ## Part 3: Extra credit 
