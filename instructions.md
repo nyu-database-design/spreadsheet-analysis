@@ -53,6 +53,12 @@ Use formulas to calculate four different aggregate statistics based on specific 
 
 Be sure to use the database-like functions appropriate to your spreadsheet program (e.g. AVERAGEIF, MAXIF, MINIF, SUMIF, etc for most spreadsheet programs; or DAVERAGE, DMAX, DMIN, etc for Microsoft Excel).
 
+### Do some further analysis
+Perform further, more complex analysis that shows some interesting insights into your data set by using one or more of the following techniques:
+- pivot table
+- chart
+
+
 ### Write a report 
 
 Write a report which displays the data and the results in the file named [README.md](./README.md).
@@ -61,11 +67,16 @@ This report should be well-written and well-formatted using Markdown code - refe
 
 The report must include:
 
--   The origin of your data set - what is it and where does it come from.  Include a link to the URL of the source.
--   What format the original data file was in (CSV, JSON, or other).
--   Display some of the raw data from the original data file (the first 20 rows is enough).  Use Markdown's ability to display tables - see the examples in the Markdown guide linked above.
--   Describe the problems that were present in the data and the scrubbing tasks that were necessary to prepare your data set for import into a spreadsheet - include scrubbing done in Python, a text editor, or any other tool.  Be specific with examples of the problems in the original data and the way in which those were solved.  Feel free to show small snippets of relevant code - see the examples of code "syntax highlighting" in the Markdown guide linked above.
--   Describe each of the aggregate statistic you have calculated - include a description of each and describe any insights the statistic shows that may not be obvious to someone just viewing the raw data.
+Data set details:
+- The origin of your data set - what is it and where does it come from.  Include a link to the URL of the source.
+- What format the original data file was in (CSV, JSON, or other).
+- Display some of the raw data from the original data file (the first 20 rows is enough).  Use Markdown's ability to display tables - see the examples in the Markdown guide linked above.
+- Describe the problems that were present in the data and the scrubbing tasks that were necessary to prepare your data set for import into a spreadsheet - include scrubbing done in Python, a text editor, or any other tool.  Be specific with examples of the problems in the original data and the way in which those were solved.  Feel free to show small snippets of relevant code - see the examples of code "syntax highlighting" in the Markdown guide linked above.
+
+Analysis:
+- Describe each of the aggregate statistic you have calculated - include a description of each and describe any insights the statistic shows that may not be obvious to someone just viewing the raw data.
+- If using a pivot table for analysis, include a Markdown table showing a sample of the results of the pivot table (no more than 20 rows, please), along with a short description of what the results show and any insights they offer.
+- If using a chart for visualization, include the chart image in the report, with a short description of what the image shows and any insights it offers.  See the Markdown guide linked above for details of showing an image.
 
 ## Part 3: Extra credit 
 
