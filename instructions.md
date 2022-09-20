@@ -118,7 +118,7 @@ You may do one, two, or neither of these extra credit options as you prefer:
 
 ### Option 1: Scraping data
 
-There is an extra credit option to use Python to retrieve the data directly from a webpage using [urllib](https://knowledge.kitchen/Modules_in_Python#UrlLib.Request_module). If you do "scrape" data off the web in this way, feel free to use the [Beautiful Soup](https://knowledge.kitchen/Modules_in_Python#Beautiful_Soup) library, or another parser module in python to assist in removing the HTML from the page and parsing the document, if necessary.
+There is an extra credit option to use Python to retrieve the data directly from a webpage using [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request). If you do "scrape" data off the web in this way, feel free to use the [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) library, or another parser module in python to assist in removing the HTML from the page and parsing the document, if necessary.
 
 ### Option 2: Big or complex data
 
