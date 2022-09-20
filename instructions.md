@@ -22,19 +22,19 @@ Librarian Vicky Rampin has shared an [excellent set of helpful slides about find
 
 Librarian Andrew Battista has shared specific links to data portals that may be the first step of your journey towards the data of your dreams:
 
-- Data Sources by Topic: http://guides.nyu.edu/content.php?pid=352851&sid=2886542 (especially NYC data sources)
-- NYC Department of City Planning's Bytes of the Big Apple: http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml
-- NYC Open Data project: https://nycopendata.socrata.com/
-- Inter-University Consortium for Political and Social Research (ICPSR): http://www.icpsr.umich.edu/icpsrweb/landing.jsp (in particular, data on crime).
-- International Monetary Fund (IMF) eLibrary Data: https://www.imf.org/external/data.htm
+- [Data Sources by Topic](http://guides.nyu.edu/content.php?pid=352851&sid=2886542) (especially NYC data sources)
+- NYC Department of City Planning's [Bytes of the Big Apple](http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml)
+- [NYC Open Data](https://nycopendata.socrata.com/) project
+- [Inter-University Consortium for Political and Social Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/landing.jsp) (in particular, data on crime).
+- [International Monetary Fund (IMF) eLibrary Data](https://www.imf.org/external/data.htm)
 
 Other sample data sets that might interest you:
 
-- MusicBrainz - http://musicbrainz.org/
-- Baseball statistics - http://www.baseball-reference.com/
-- Financial Data - http://www.bloomberg.com/markets/stocks/
-- Bureau of Labor Statistics - http://www.bls.gov/data/
-- US Census -http://www.census.gov/geo/maps-data/data/gazetteer.html
+- [MusicBrainz](http://musicbrainz.org/)
+- [Baseball statistics](http://www.baseball-reference.com/)
+- [Bloomberg Financial Data](http://www.bloomberg.com/markets/stocks/)
+- [Bureau of Labor Statistics](http://www.bls.gov/data/)
+- [US Census](http://www.census.gov/geo/maps-data/data/gazetteer.html)
 
 #### Additional resources
 
