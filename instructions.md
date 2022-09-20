@@ -16,7 +16,29 @@ First, you will need to select a datafile to work from. For this assignment, ple
 
 ### Where to find data
 
-There are [data sources available at NYU Libraries as data sources published as part of the open web](https://knowledge.kitchen/Suggested_data_sources). Please review these and use these available resources to identify your data set.
+There are many data sources available via NYU Libraries data portal. Note that you are encouraged to visit [Data Services](http://guides.nyu.edu/datasources) on the 5th Floor of Bobst Library for help finding data. A few recommended to our class by the librarians:
+
+Librarian Vicky Rampin has shared an [excellent set of helpful slides about finding data](https://drive.google.com/file/d/1rt7ZnG70_e-Uwje8lrnoKQlv1rICdUY7/view).
+
+Librarian Andrew Battista has shared specific links to data portals that may be the first step of your journey towards the data of your dreams:
+
+- Data Sources by Topic: http://guides.nyu.edu/content.php?pid=352851&sid=2886542 (especially NYC data sources)
+- NYC Department of City Planning's Bytes of the Big Apple: http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml
+- NYC Open Data project: https://nycopendata.socrata.com/
+- Inter-University Consortium for Political and Social Research (ICPSR): http://www.icpsr.umich.edu/icpsrweb/landing.jsp (in particular, data on crime).
+- International Monetary Fund (IMF) eLibrary Data: https://www.imf.org/external/data.htm
+
+Other sample data sets that might interest you:
+
+- MusicBrainz - http://musicbrainz.org/
+- Baseball statistics - http://www.baseball-reference.com/
+- Financial Data - http://www.bloomberg.com/markets/stocks/
+- Bureau of Labor Statistics - http://www.bls.gov/data/
+- US Census -http://www.census.gov/geo/maps-data/data/gazetteer.html
+
+#### Additional resources
+
+You might also consider consulting with a [http://library.nyu.edu/research/lib_arc.html Subject Librarian at the library] if you prefer for additional data sources or data sources in your specific field of study.
 
 ### Save the data
 
@@ -60,7 +82,7 @@ Use formulas to calculate four different aggregate statistics based on your data
 
 Use formulas to calculate four different aggregate statistics based on specific criteria you define, such as mean, maximum, minimum, etc of only those rows that match the given criterion or multiple criteria. Place a clear label for each statistic in a neighboring cell so that someone viewing your spreadsheet can easily understand exactly what each statistic represents.
 
-Be sure to use the database-like functions appropriate to your spreadsheet program (e.g. AVERAGEIF, MAXIF, MINIF, SUMIF, etc for most spreadsheet programs; or DAVERAGE, DMAX, DMIN, etc for Microsoft Excel).
+Be sure to use the database-like functions appropriate to your spreadsheet program (e.g. `AVERAGEIF`, `MAXIF`, `MINIF`, `SUMIF`, etc for most spreadsheet programs; Microsoft Excel also has `DAVERAGE`, `DMAX`, `DMIN`, etc ).
 
 ### Do some further analysis
 
