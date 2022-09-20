@@ -38,7 +38,7 @@ Other sample data sets that might interest you:
 
 #### Additional resources
 
-You might also consider consulting with a [http://library.nyu.edu/research/lib_arc.html Subject Librarian at the library] if you prefer for additional data sources or data sources in your specific field of study.
+You might also consider consulting with a [Subject Librarian at the library](http://library.nyu.edu/research/lib_arc.html) if you prefer for additional data sources or data sources in your specific field of study.
 
 ### Save the data
 
