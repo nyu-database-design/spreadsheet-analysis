@@ -7,6 +7,7 @@ The goals of this assignment are to:
 - "scrub", "munge", or "clean" a datafile using Python 3
 - import the text data file into an Microsoft Excel, Google Sheets, Apple Numbers, or Libre Office spreadsheet
 - produce statistical results based on the data using the database-like functions in the spreadsheet program of your choice
+- save the spreadsheet as a proper spreadsheet file (e.g. `.xslx`, `.numbers`, `.ods`)
 
 ## Part 1: Data selection and retrieval
 
@@ -91,6 +92,12 @@ Perform further, more complex analysis that shows some interesting insights into
 - pivot table
 - chart
 
+### Save the spreadsheet
+
+Save the spreadsheet as a proper spreadsheet file (e.g. `.xslx`, `.numbers`, `.ods`) into your `data` directory. So you now have at least 3 files in the `data` directory: the original data file, the munged data file, and the spreadsheet file.
+
+**Note**: When submitting the exercise, if the data files are too large to upload to GitHub, you may upload them to a cloud storage service such as Google Drive or Box and then provide a clearly-labeled link to the files in the report you will write in the `README.md` file (more on that below).
+
 ### Write a report
 
 Write a report which displays the data and the results in the file named [README.md](./README.md).
@@ -105,6 +112,7 @@ Data set details:
 - What format the original data file was in (CSV, JSON, or other).
 - Display some of the raw data from the original data file (the first 20 rows is enough). Use Markdown's ability to display tables - see the examples in the Markdown guide linked above.
 - Describe the problems that were present in the data and the scrubbing tasks that were necessary to prepare your data set for import into a spreadsheet - include scrubbing done in Python, a text editor, or any other tool. Be specific with examples of the problems in the original data and the way in which those were solved. Feel free to show small snippets of relevant code - see the examples of code "syntax highlighting" in the Markdown guide linked above.
+- Links to your data files (the original raw data, the munged data, and the spreadsheet file including the formulas and charts). These can be links to files in your own repository or links to the files stored in a cloud storage service if your files are too large to be included in your own repository.
 
 Analysis:
 
