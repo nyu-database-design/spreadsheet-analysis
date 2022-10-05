@@ -96,7 +96,11 @@ Perform further, more complex analysis that shows some interesting insights into
 
 Save the spreadsheet as a proper spreadsheet file (e.g. `.xslx`, `.numbers`, `.ods`) into your `data` directory. So you now have at least 3 files in the `data` directory: the original data file, the munged data file, and the spreadsheet file.
 
-**Note**: When submitting the exercise, if the data files are too large to upload to GitHub, you may upload them to a cloud storage service such as Google Drive or Box and then provide a clearly-labeled link to the files in the report you will write in the `README.md` file (more on that below).
+### What to do for very large data files
+
+**Note**: When submitting the exercise, if the data files are too large to upload to GitHub, you may upload them to a cloud storage service such as Google Drive or Box and then provide a clearly-labeled link to the files in the report you will write in the `README.md` file (more on that below). In that case, also edit the [].gitignore](./.gitignore) file to exclude the data files from being uploaded to GitHub by adding the following line:
+
+      data/*
 
 ### Write a report
 
