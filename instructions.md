@@ -94,13 +94,21 @@ Perform further, more complex analysis that shows some interesting insights into
 
 ### Save the spreadsheet
 
-Save the spreadsheet as a proper spreadsheet file (e.g. `.xslx`, `.numbers`, `.ods`) into your `data` directory. So you now have at least 3 files in the `data` directory: the original data file, the munged data file, and the spreadsheet file.
+Save the spreadsheet as a proper spreadsheet file (e.g. `.xslx`, `.numbers`, `.ods`) into your `data` directory. So you now have at least 3 files in the `data` directory:
+
+1. the original data file
+1. the munged data file
+1. the spreadsheet file.
 
 ### What to do for very large data files
 
-**Note**: When submitting the exercise, if the data files are too large to upload to GitHub, you may upload them to a cloud storage service such as Google Drive or Box and then provide a clearly-labeled link to the files in the report you will write in the `README.md` file (more on that below). In that case, also edit the [].gitignore](./.gitignore) file to exclude the data files from being uploaded to GitHub by adding the following line:
+Check the size of each of your data files. If any of your files is larger than `50MiB`, you should not include it in the files you upload to GitHub. GitHub currently blocks files larger than `100 MiB` - [see their notes on dealing with large files](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
+
+If any of your files is greater than this size, you may upload them to a cloud storage service such as Google Drive or Box and then provide a clearly-labeled link to the files in the report you will write in the `README.md` file (more on that below). In that case, also edit the [.gitignore](./.gitignore) file to exclude the data files from being uploaded to GitHub by adding the following line:
 
       data/*
+
+This way, when you `push` or "sync" your modified files to GitHub, the data files will not be included.
 
 ### Write a report
 
