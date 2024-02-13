@@ -31,15 +31,17 @@ Librarian Andrew Battista has shared specific links to data portals that may be 
 
 Other sample data sets that might interest you:
 
-- [MusicBrainz](http://musicbrainz.org/)
-- [Baseball statistics](http://www.baseball-reference.com/)
+- [US Census](http://www.census.gov/geo/maps-data/data/gazetteer.html)
 - [Bloomberg Financial Data](http://www.bloomberg.com/markets/stocks/)
 - [Bureau of Labor Statistics](http://www.bls.gov/data/)
-- [US Census](http://www.census.gov/geo/maps-data/data/gazetteer.html)
+- [MusicBrainz](http://musicbrainz.org/)
+- [Baseball statistics](http://www.baseball-reference.com/)
+
+Note that [kaggle.com](https://kaggle.com) is not a valid data source.
 
 #### Additional resources
 
-You might also consider consulting with a [Subject Librarian at the library](http://library.nyu.edu/research/lib_arc.html) if you prefer for additional data sources or data sources in your specific field of study.
+The data sources above are only a sample of what is available. Consider consulting with a [Subject Librarian at the library](http://library.nyu.edu/research/lib_arc.html) for additional data sources in your specific field of interest.
 
 ### Save the data
 
